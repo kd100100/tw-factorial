@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-12T14:08:39" hostname="LEGION" time="0.028">
+  <properties/>
+  <testcase name="shouldBe0IfValueLessThan0()" classname="FactorialTest" time="0.023"/>
+  <testcase name="shouldBe1IfTheValueIs0()" classname="FactorialTest" time="0.001"/>
+  <testcase name="shouldBe1IfTheValueIs1()" classname="FactorialTest" time="0.001"/>
+  <testcase name="shouldBe3628800IfValueIs10()" classname="FactorialTest" time="0.001"/>
+  <testcase name="shouldBe6IfTheValueIs3()" classname="FactorialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
